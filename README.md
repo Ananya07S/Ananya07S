@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ananya!</h1>
+![jake-is](https://github.com/user-attachments/assets/71d25fe2-868e-42b3-8ea7-9b7a5e69f342)
 
 
 ---
